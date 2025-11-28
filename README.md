@@ -3,7 +3,7 @@
 ## 😄 Pronouns: She/Her  
 
 ## 💡 About Me
-I enjoy exploring how businesses—especially SMEs—can use data to grow.  
+I enjoy exploring how businesses, especially SMEs, can use data to grow.  
 My goal is to build a career in finance, data insights, and economic analysis, while contributing meaningful, understandable analytics to people and businesses.
 
 ## 🚀 What I Do
