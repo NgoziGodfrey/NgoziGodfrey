@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi, I'm Ngozi Godfrey  
+### Economist | Finance, Tax & Data Insights  
+## 😄 Pronouns: She/Her  
 
-<!--
-**NgoziGodfrey/NgoziGodfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+I enjoy exploring how businesses—especially SMEs—can use data to grow.  
+My goal is to build a career in finance, data insights, and economic analysis, while contributing meaningful, understandable analytics to people and businesses.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Analyze financial data and trends  
+- Build dashboards and visual reports  
+- Simplify complex financial information  
+- Work on SME-focused finance and data projects  
+- Explore datasets across various industries and markets  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask Me About
+- Financial reporting  
+- Taxation fundamentals  
+- Data analysis  
+- Power BI dashboards  
+- SQL  
+- SME financial insights  
+- Market and industry analytics  
+
+## 📂 Featured Projects
+- SME Financial Insights Dashboard – Power BI  
+- Fashion Retail Data Analysis – Python/Excel  
+- Skincare Market Trends (Sephora) – Data visualization  
+
+## 🛠️ Tools & Skills
+Python • SQL • Excel • Power BI • Financial Reporting • Tax Processes
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/ngozi-godfrey-277216244 
+Email: ngozi.godfrey02@gmail.com
+
+## ⚡ Fun Fact
+I’m currently building small, consistent projects across various SME industries to grow a strong, well-rounded portfolio.
