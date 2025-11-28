@@ -17,18 +17,18 @@ My goal is to build a career in finance, data insights, and economic analysis, w
 - Financial reporting  
 - Taxation fundamentals  
 - Data analysis  
-- Power BI dashboards  
+- Power BI/ Tableau dashboards  
 - SQL  
 - SME financial insights  
 - Market and industry analytics  
 
 ## 📂 Featured Projects
-- SME Financial Insights Dashboard – Power BI  
+- SME Financial Insights Dashboard – Tableau 
 - Fashion Retail Data Analysis – Python/Excel  
 - Skincare Market Trends (Sephora) – Data visualization  
 
 ## 🛠️ Tools & Skills
-Python • SQL • Excel • Power BI • Financial Reporting • Tax Processes
+Python • SQL • Excel • Power BI • Tableau • Financial Reporting • Tax Processes
 
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/ngozi-godfrey-277216244 
