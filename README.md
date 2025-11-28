@@ -28,7 +28,12 @@ My goal is to build a career in finance, data insights, and economic analysis, w
 - Skincare Market Trends (Sephora) – Data visualization  
 
 ## 🛠️ Tools & Skills
-Python • SQL • Excel • Power BI • Tableau • Financial Reporting • Tax Processes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 📫 Connect With Me
 LinkedIn: www.linkedin.com/in/ngozi-godfrey-277216244 
