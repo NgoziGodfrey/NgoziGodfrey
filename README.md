@@ -29,15 +29,25 @@ My goal is to build a career in finance, data insights, and economic analysis, w
 
 ## 🛠️ Tools & Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" />
+</p>
 
 ## 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/ngozi-godfrey-277216244 
-Email: ngozi.godfrey02@gmail.com
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ngozi-godfrey-277216244/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ngozi.godfrey02@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
+  </a>
+</p>
 
 ## ⚡ Fun Fact
 I’m currently building small, consistent projects across various SME industries to grow a strong, well-rounded portfolio.
