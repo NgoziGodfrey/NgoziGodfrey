@@ -29,13 +29,16 @@ My goal is to build a career in finance, data insights, and economic analysis, w
 
 ## 🛠️ Tools & Skills
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Financial Reporting](https://img.shields.io/badge/Financial_Reporting-0A66C2?style=for-the-badge)
+![Tax Processes](https://img.shields.io/badge/Tax_Processes-8A2BE2?style=for-the-badge)
+![SME Finance](https://img.shields.io/badge/SME_Finance-FF7F50?style=for-the-badge)
+![Market Analysis](https://img.shields.io/badge/Market_Analysis-228B22?style=for-the-badge)
+
 
 ## 📫 Connect With Me
 
@@ -45,8 +48,8 @@ My goal is to build a career in finance, data insights, and economic analysis, w
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ngozi.godfrey02@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
+</a>
 </p>
 
 ## ⚡ Fun Fact
